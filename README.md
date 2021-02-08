@@ -1,6 +1,7 @@
 # Game-Development-and-Graphics-using-Python
 ### Various Games and Graphical Projects made using Python mainly involving the Pygame and tkinter libraries of python.
 
+- Baby Hitman -> A 2D game made using pygame in which the main character has to kill the enemies using bullets from his gun. Score = number of enemies killed.
 - Checkers AI -> AI checkers game made using minimax algorithm and pygame, involving lot of OOPS concepts.
 - Covid 19 -> Game made during lockdown period, using pygame very relatable and similar to space invaders.
 - Hangman -> Word Guessing Game, a sort of fill in the blanks with a graphical touch.

@@ -7,7 +7,7 @@
 
 - Covid 19 -> Game made during lockdown period, using pygame very relatable and similar to space invaders.
 
-- Flappy Bird AI -> The famous Flappy Bird game played using AI with the help of NEAT(Neuro Evolution of Augenting Topologies) feed-forward genetic algorithm.
+- Flappy Bird AI -> The famous Flappy Bird game played using AI with the help of NEAT(Neuro Evolution of Augenting Topologies) feed-forward genetic algorithm.(Research paper written by Stanley included in the folder.)
 
 - Hangman -> Word Guessing Game, a sort of fill in the blanks with a graphical touch.
 
